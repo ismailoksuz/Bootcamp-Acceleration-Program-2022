@@ -8,3 +8,4 @@ def ArrayChallenge(strArr):
   return cnt
 
 print ArrayChallenge(raw_input())
+
